@@ -1,0 +1,7 @@
+
+HAI "HAHAHA"
+
+    VISIBLE 1 2 3 
+
+KTHXBYE
+
